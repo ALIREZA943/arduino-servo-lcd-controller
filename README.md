@@ -145,26 +145,6 @@ Embedded-Servo-Control-System/
 
 ---
 
-## 🚀 Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/ALIREZA943/embedded-servo-control-system.git
-```
-
-Open the project using Arduino IDE.
-
-Install the required libraries.
-
-Upload the sketch to the Arduino Uno.
-
-Connect the hardware according to the circuit diagram.
-
-Power the board and rotate the potentiometer to observe real-time servo movement and LCD updates.
-
----
-
 ## 🎯 Learning Outcomes
 
 This project demonstrates practical experience with:
