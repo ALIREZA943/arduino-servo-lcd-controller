@@ -56,7 +56,7 @@ videos/project_demo.mp4
 
 or
 
-https://youtu.be/your-video-link
+[https://youtu.be/your-video-link](https://youtu.be/lBGC4nNNZgk?si=oiIulU7AxF2IuKyi)
 
 ---
 
