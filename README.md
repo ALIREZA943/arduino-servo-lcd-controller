@@ -204,7 +204,7 @@ Electrical & Control Engineering Student
 
 📧 [alirezarezaii943@gmail.com](mailto:alirezarezaii943@gmail.com)
 
-🔗 GitHub: https://github.com/ALIREZA943
+🔗 GitHub: https://github.com/alirezarezaei2005
 
 ---
 
